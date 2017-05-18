@@ -12,7 +12,7 @@ restService.use(bodyParser.urlencoded({
 restService.use(bodyPardser.json());
 
 restService.post('/echo', funstion(req,res){
-    var speech = req.body.result && req.body.result.parameter && req.body.result.parameter.echoText ? req.body.result.parameters.echoText
+    var speech = req.body.result && req.body.result.parameter && req.body.result.parameter.echoText ? req.body.result.parameters.echoText:"Seems like some problem"
     return res.json({
         speech:speech,
         displayText : speech,
