@@ -1,12 +1,12 @@
 {
-  "name": "webhook-echo-sample",
+  "name": "flow-test",
   "version": "1.0.0",
-  "description": "Webhook echo sample",
+  "description": "AI Flow Test",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Sunil Syal",
+  "author": "Sani Iguine",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4"

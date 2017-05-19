@@ -1,6 +1,6 @@
 {
-  "name": "Webhook-echo-sample",
-  "description": "Webhook echo sample",
-  "repository": "https://github.com/SunilSyal/Webhook-and-API.AI-Samples.git",
+  "name": "flow-test",
+  "description": "AI flow test sample",
+  "repository": "https://github.com/saniiguine/ConceptCheck",
   "keywords": ["api.ai", "natural language"]
 }
